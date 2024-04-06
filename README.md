@@ -3,7 +3,7 @@ Have Fun!
 
 git clone https://github.com/TheCu1t/BTCRACK
 
-cd Bitcoin-wallet-cracker && pip install -r requirements.txt
+cd BTCRACK && pip install -r requirements.txt
 
 python bc.py
 
